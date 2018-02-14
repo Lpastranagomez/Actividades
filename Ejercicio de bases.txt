@@ -1,0 +1,21 @@
+Campeonato
+
+Se necesita una base de datos para un campeonato de futball de barrio,
+donde contenga la siguiente informacion acerca de los organizadores y los equipos:
+se registran nombres apellidos, numero de identificacion, numero de telefono.
+se debe registrar el barrio de donde viene cada equipo.
+nombre del equipo uno o 2 colores que lo identifique y caracterisicas del grupo ejem:
+(inter de milan, real madrdid)
+el encargado del equipo su numero de telefono y correo electronico
+cantidad  de jugadores que se registren en cada equipo, se le aprobara una cantidad maxima 
+de 10 y minima de 7
+cada jugador debe registrarse con su nombre, numero de identificacion, y numero de camiceta
+los barrios donde se jugaran como lo son, cancha la julia, cancha cantaclaro, cancha recreo 
+los arbitros se deberan registrar nombres, numero de identificacion y telefono 
+
+
+
+
+hecho por:
+Edison Montes Gomez
+Luis Pastrana Gomez
